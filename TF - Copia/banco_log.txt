@@ -1,0 +1,57 @@
+2024-06-28 16:58:15 - Funcionário Carlos (login: carlos_login) fez login.
+2024-06-28 16:58:48 - Gerente Carlos criou novo cliente: pedro
+2024-06-28 16:58:53 - Gerente Carlos criou Conta Corrente para pedro com saldo inicial 10.0
+2024-06-28 16:59:13 - Cliente pedro (login: pedro_login) fez login.
+2024-06-28 16:59:33 - Cliente pedro depositou 10.0 na conta ContaCorrente
+2024-06-28 17:01:11 - Funcionário Ana (login: ana_login) fez login.
+2024-06-28 17:07:04 - Funcionário Ana (login: ana_login) fez login.
+2024-06-28 17:07:24 - Diretor Ana criou novo gerente: pedro
+2024-06-28 17:07:48 - Funcionário pedro (login: pedro_login) fez login.
+2024-06-28 17:08:00 - Funcionário Carlos (login: carlos_login) fez login.
+2024-06-28 17:22:45 - Funcionário Ana (login: ana_login) fez login.
+2024-06-28 17:23:04 - Diretor Ana criou novo gerente: gabriel
+2024-06-28 17:23:12 - Funcionário gabriel (login: gabriel_login) fez login.
+2024-06-28 17:23:31 - Gerente gabriel criou novo cliente: pedro
+2024-06-28 17:23:35 - Gerente gabriel criou conta corrente para cliente: pedro
+2024-06-28 17:23:48 - Cliente pedro (login: pedro_login) fez login.
+2024-06-28 17:27:16 - Funcionário Carlos (login: carlos_login) fez login.
+2024-06-28 17:27:43 - Funcionário Carlos (login: carlos_login) fez login.
+2024-06-28 17:27:58 - Gerente Carlos criou novo cliente: pedro
+2024-06-28 17:28:03 - Gerente Carlos criou conta corrente para cliente: pedro
+2024-06-28 17:28:14 - Cliente pedro (login: pedro_login) fez login.
+2024-06-28 17:34:56 - Funcionário Carlos (login: carlos_login) fez login.
+2024-06-28 17:35:07 - Gerente Carlos criou novo cliente: pedro
+2024-06-28 17:35:11 - Gerente Carlos criou conta corrente para cliente: pedro
+2024-06-28 17:37:07 - Funcionário Carlos (login: carlos_login) fez login.
+2024-06-28 17:37:29 - Gerente Carlos criou novo cliente: gabriel
+2024-06-28 17:37:31 - Gerente Carlos criou conta corrente para cliente: gabriel
+2024-06-28 17:38:01 - Cliente gabriel (login: gabriel_login) fez login.
+2024-06-28 17:38:27 - Cliente gabriel (login: gabriel_login) fez login.
+2024-06-28 17:43:55 - Funcionário Carlos (login: carlos_login) fez login.
+2024-06-28 17:44:13 - Gerente Carlos criou novo cliente: vasco
+2024-06-28 17:44:16 - Gerente Carlos criou conta corrente para cliente: vasco
+2024-06-28 17:44:26 - Cliente vasco (login: vasco_login) fez login.
+2024-06-28 17:44:29 - Cliente vasco depositou 10.0 na conta ContaCorrente
+2024-06-28 19:55:57 - Funcionário Ana (login: ana_login) fez login.
+2024-06-28 19:56:12 - Funcionário Carlos (login: carlos_login) fez login.
+2024-06-28 19:56:39 - Gerente Carlos criou novo cliente: Gabriel
+2024-06-28 19:56:50 - Cliente Gabriel (login: gabriel_login) fez login.
+2024-06-28 20:05:35 - Funcionário Carlos (login: carlos_login) fez login.
+2024-06-28 20:05:56 - Gerente Carlos criou novo cliente: Gabriel
+2024-06-28 20:06:02 - Cliente Gabriel (login: 1) fez login.
+2024-06-28 20:06:15 - Funcionário Carlos (login: carlos_login) fez login.
+2024-06-28 20:07:01 - Cliente Gabriel (login: 1) fez login.
+2024-06-28 20:11:01 - Funcionário Carlos (login: carlos_login) fez login.
+2024-06-28 20:11:31 - Gerente Carlos criou novo cliente: Gabriel
+2024-06-28 20:12:29 - Gerente Carlos criou novo cliente: Pedro
+2024-06-28 20:12:42 - Gerente Carlos criou conta corrente para cliente: Pedro
+2024-06-28 20:12:50 - Cliente Gabriel (login: 1) fez login.
+2024-06-28 20:16:39 - Funcionário Carlos (login: carlos_login) fez login.
+2024-06-28 20:16:50 - Gerente Carlos criou novo cliente: Gabriel
+2024-06-28 20:17:02 - Gerente Carlos criou conta corrente para cliente: Gabriel
+2024-06-28 20:17:08 - Cliente Gabriel (login: 1) fez login.
+2024-06-28 20:17:23 - Cliente Gabriel sacou 1000.0 da conta ContaCorrente
+2024-06-28 20:31:20 - Funcionário Carlos (login: carlos_login) fez login.
+2024-06-28 20:31:36 - Gerente Carlos criou novo cliente: Gabriel
+2024-06-28 20:31:52 - Gerente Carlos criou conta corrente para cliente: Gabriel
+2024-06-28 20:31:56 - Cliente Gabriel (login: 1) fez login.
